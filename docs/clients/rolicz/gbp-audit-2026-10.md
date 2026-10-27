@@ -46,10 +46,11 @@ Lokalizacja: `5314497507716897686` · [Mapy](https://maps.google.com/maps?cid=36
 
 ## Szybkie poprawki (do zrobienia od ręki po akceptacji)
 
-- [ ] Odpowiedzi na 2 opinie + poprawa 2 starych odpowiedzi
-- [ ] Nowy opis (750 znaków)
-- [ ] 8–12 usług z opisami
-- [ ] Porządek w kategoriach
-- [ ] Link www z UTM, jedna domena
+- [x] Odpowiedzi na 2 opinie (27.10) · [ ] poprawa 2 starych odpowiedzi
+- [x] Nowy opis (27.10)
+- [x] 9 usług z opisami (27.10)
+- [x] Kategorie (27.10): usunięte Budowa domów, Budownictwo mieszkalne, Dekorator wnętrz; dodane Płyty g-k; Złota rączka zostaje; bez Tynkarza (robimy gładzie, nie tynki)
+- [x] Link www z UTM (27.10) · [ ] link cennika rolicz.com → rolicz.pl (do sprawdzenia)
+- [x] Adres ukryty, profil usługowy (27.10, właściciel w panelu)
 - [ ] Pierwszy post + 10 świeżych zdjęć
 - [ ] Link/QR do opinii: https://search.google.com/local/writereview?placeid=ChIJrU6WH01FBEcR7rlhqjyzVTI
