@@ -22,7 +22,7 @@ Composio nie ma natywnego zapisu do GBP (tylko odczyt Map) – dlatego publikuje
 
 ## 1. Fundament profilu (tydzień 1, jednorazowo)
 
-1. **Nazwa** = prawdziwa nazwa firmy z CEIDG (np. „Zygmunt Rolicz – Wykończenia Wnętrz” tylko jeśli tak jest zarejestrowana). Bez dopychania słów kluczowych → ryzyko zawieszenia.
+1. **Nazwa** = nazwa używana w realnym świecie (szyld, auto, Facebook, wizytówki) – u nas **„Zygmunt Rolicz”**, marka od 2007 r. Nazwa z rejestru/księgowości (Imperium Group) nie musi być na GBP. Bez dopychania miast i usług → ryzyko zawieszenia.
 2. **Kategoria główna**: *Wykonawca robót wykończeniowych* / *Firma remontowa* (sprawdzimy `business_profile_search_categories` + co mają liderzy w okolicy). **Dodatkowe** (do 9): Glazurnik, Malarz, Tynkarz, Firma remontowo-budowlana, Montaż płyt g-k, Układanie podłóg itd. – tylko to, co faktycznie robicie.
 3. **Firma usługowa**: ukryć adres, ustawić **obszar obsługi** (miasto + ościenne gminy, max ~2 h dojazdu, do 20 obszarów).
 4. **Usługi**: każda usługa osobno, z opisem 300–750 znaków i (opcjonalnie) ceną „od”. Opisy zawierają naturalnie frazy + miasta.
