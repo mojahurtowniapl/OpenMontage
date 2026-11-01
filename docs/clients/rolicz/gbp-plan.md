@@ -115,3 +115,8 @@ Zasady: naturalne frazy lokalne (miasto/dzielnica), konkretne liczby, zawsze CTA
 4. Telefon, www (jeśli jest), dokładna nazwa z CEIDG.
 5. Archiwalne zdjęcia realizacji (dowolnie – wrzucimy na Drive).
 6. Kto akceptuje posty i odpowiedzi na opinie.
+
+## Zasady współpracy (ustalone z właścicielem, 01.11.2026)
+
+- **Bez pytania:** pobieranie i przeglądanie zdjęć, grupowanie, foldery na OneDrive, analizy, raporty, przygotowywanie szkiców.
+- **Zawsze do akceptacji przed publikacją:** każdy post (tekst + zdjęcie), odpowiedzi na opinie, zmiany danych wizytówki (nazwa, adres, kategorie, opis).
