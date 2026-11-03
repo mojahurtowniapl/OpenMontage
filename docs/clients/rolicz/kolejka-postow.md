@@ -7,7 +7,7 @@ Rytm: 1 post/tydz., wtorek 8:00. Każdy post: 1 zdjęcie z `5-ZDJECIA-REALIZACJE
 |---|---|---|---|---|---|
 | 1 | 01.11 | Otusz | Start serii – pokój po gładziach | 20260801_122221 | opublikowany |
 | 2 | 01.11 | Otusz | Ogrzewanie podłogowe i wylewki | 20260813_135222 | opublikowany 01.11 (zaakceptowany) |
-| 3 | 03.11 | Otusz | Łazienka: hydroizolacja + odpływ liniowy | 20260629_205545 | zaplanowany wt 03.11 8:00 |
+| 3 | 03.11 | Otusz | Łazienka: hydroizolacja + odpływ liniowy | 20260629_205545 | opublikowany 03.11 (potwierdzone) |
 | 4 | 17.11 | Winiary | Łazienka: stelaż + zabudowa g-k | 20260309_173312 | zaakceptowany – czeka (brak kredytów Markifact) |
 | 5 | 24.11 | Otusz | Poddasze z belkami – gładzie przy drewnie | 20260827_165023 | zaakceptowany – czeka (brak kredytów Markifact) |
 | 6 | 01.12 | Otusz | Odbiór gładzi światłem bocznym | 20260826_174712 | zaakceptowany – czeka (brak kredytów Markifact) |
