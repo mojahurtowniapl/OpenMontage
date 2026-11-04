@@ -5,10 +5,9 @@
 | Plik | Źródło | Fragment (s) | Długość | Temat |
 |---|---|---|---|---|
 | GBP-01_slabizna | ROLKA-8 światło boczne | 1.0–29.6 | 28,6 | słabe prace nie przechodzą, symulacja światła klienta |
-| GBP-02_tynk-to-nie-gladz | ROLKA-11 | 0.3–19.1 + 62.7–69.0 | 25,1 | norma tynku ≠ gładź; „i co wtedy?” |
 | GBP-03_tasma-narozna | ROLKA-15 | 0.3–24.0 | 23,7 | taśma narożna, geometria narożnika |
 | GBP-04_folia-w-kuwecie | ROLKA-12 | 0.8–12.6 + 47.5–61.8 | 26,1 | folia w kuwecie – błąd i rozwiązanie |
 
-Odrzucone na wizytówkę: ROLKA-20 (w kadrze inna osoba – materiał z YouTube, prawa do obrazu), ROLKA-19 latarka (przekaz „nie odbieraj latarką” może zrażać inwestora), ROLKA-3 (brak domkniętego fragmentu ≤30 s), ROLKA-14 (odpowiedź na hejt).
+Odrzucone na wizytówkę: ROLKA-11 „tynk to nie gładź” (sprzeczna z aktualnym stanowiskiem: gładzie odbiera się wg normy tynków, kat. IV – decyzja właściciela 04.11), ROLKA-20 (w kadrze inna osoba – materiał z YouTube, prawa do obrazu), ROLKA-19 latarka (przekaz „nie odbieraj latarką” może zrażać inwestora), ROLKA-3 (brak domkniętego fragmentu ≤30 s), ROLKA-14 (odpowiedź na hejt).
 
 Status: do akceptacji (04.11).
