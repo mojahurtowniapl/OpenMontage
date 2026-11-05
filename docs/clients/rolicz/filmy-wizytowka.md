@@ -10,4 +10,4 @@
 
 Odrzucone na wizytówkę: ROLKA-11 „tynk to nie gładź” (sprzeczna z aktualnym stanowiskiem: gładzie odbiera się wg normy tynków, kat. IV – decyzja właściciela 04.11), ROLKA-20 (w kadrze inna osoba – materiał z YouTube, prawa do obrazu), ROLKA-19 latarka (przekaz „nie odbieraj latarką” może zrażać inwestora), ROLKA-3 (brak domkniętego fragmentu ≤30 s), ROLKA-14 (odpowiedź na hejt).
 
-Status: do akceptacji (04.11).
+Status (05.11): **wszystkie odrzucone przez właściciela** – żaden z filmów nie idzie na wizytówkę. Kierunek na filmy do ustalenia od nowa.
